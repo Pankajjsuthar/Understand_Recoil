@@ -1,0 +1,1 @@
+# This is to understand a basic difference between normal state management where prop-drilling can be a big problem. But we can use REcoil to avoid this.
